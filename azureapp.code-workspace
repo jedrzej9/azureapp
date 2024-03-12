@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "msdocs-python-flask-webapp-quickstart",
+			"path": "msdocs-python-flask-webapp-quickstart"
+		}
+	],
+	"settings": {}
+}
